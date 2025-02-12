@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-12T14:09:34 PST" name="user_Suite" finished-at="2025-02-12T14:09:41 PST" duration-ms="7067">
+    <groups>
+    </groups>
+    <test started-at="2025-02-12T14:09:34 PST" name="Test" finished-at="2025-02-12T14:09:41 PST" duration-ms="7067">
+      <class name="api.test.UserTests2_useUserEndpoint2">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests2_useUserEndpoint2@5dcd8c7a]" started-at="2025-02-12T14:09:34 PST" name="setupData" finished-at="2025-02-12T14:09:35 PST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests2_useUserEndpoint2@5dcd8c7a]" started-at="2025-02-12T14:09:35 PST" name="testPostUser" finished-at="2025-02-12T14:09:38 PST" duration-ms="3780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUser()[pri:2, instance:api.test.UserTests2_useUserEndpoint2@5dcd8c7a]" started-at="2025-02-12T14:09:38 PST" name="testGetUser" finished-at="2025-02-12T14:09:40 PST" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testUpdateUser()[pri:3, instance:api.test.UserTests2_useUserEndpoint2@5dcd8c7a]" started-at="2025-02-12T14:09:40 PST" name="testUpdateUser" finished-at="2025-02-12T14:09:40 PST" duration-ms="827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.test.UserTests2_useUserEndpoint2@5dcd8c7a]" started-at="2025-02-12T14:09:40 PST" name="testDeleteUser" finished-at="2025-02-12T14:09:41 PST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.test.UserTests2_useUserEndpoint2 -->
+    </test> <!-- Test -->
+  </suite> <!-- user_Suite -->
+</testng-results>
