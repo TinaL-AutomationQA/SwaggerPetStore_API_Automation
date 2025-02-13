@@ -65,9 +65,8 @@ Test execution status (Pass/Fail/Skip).
 Failure details with screenshots.
 Logs for debugging.
 Sample report:
-[![Report Screenshot](https://github.com/TinaL-AutomationQA/OpencartAutomation/blob/master/report%20screenshot/Report_with_screenshot1.png)
-[![Report Screenshot](https://github.com/TinaL-AutomationQA/OpencartAutomation/blob/master/report%20screenshot/Report_with_screenshot2.png)
-[![Report Screenshot](https://github.com/TinaL-AutomationQA/OpencartAutomation/blob/master/report%20screenshot/Report_with_screenshot3.png)
+[![Report Screenshot](https://github.com/TinaL-AutomationQA/SwaggerPetStore_API_Automation/blob/master/Report_screenshots/Report_screenshots1.png)
+[![Report Screenshot](https://github.com/TinaL-AutomationQA/SwaggerPetStore_API_Automation/blob/master/Report_screenshots/Report_screenshots2.png)
 
 ## API Endpoints Used
 - POST  /user Create a new user
