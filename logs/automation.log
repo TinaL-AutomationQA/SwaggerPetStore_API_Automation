@@ -72,3 +72,15 @@
 14:09:40.949 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******User Info updated******
 14:09:40.952 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******Deleting user Info******
 14:09:41.534 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******User Info deleted******
+16:56:48.950 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\liut4\eclipse-workspace4\SwaggerPetStore_API_Automation\testng.xml"
+16:56:49.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\liut4\eclipse-workspace4\SwaggerPetStore_API_Automation\testng.xml
+
+16:56:50.082 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******Creating user******
+16:56:53.178 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******User is created******
+16:56:53.199 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******Reading user Info******
+16:56:54.449 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******User Info is displayed******
+16:56:54.455 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******Updating user Info******
+16:56:55.452 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******User Info updated******
+16:56:55.459 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******Deleting user Info******
+16:56:56.045 [main] INFO  api.test.UserTests2_useUserEndpoint2 - ******User Info deleted******
